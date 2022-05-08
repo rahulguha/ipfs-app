@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
+import logo from './images/brick-and-mortal-150x150.jpg';
 import './App.css';
 
 function App() {
